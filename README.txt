@@ -6,3 +6,4 @@
 4.VB
 5.C++
 6.ÆÄÀÌ¼Ç
+7.JavaScript
