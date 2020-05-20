@@ -5,5 +5,4 @@
 3.JAVA
 4.VB
 5.C++
-6.ÆÄÀÌ¼Ç
-7.JavaScript
+6.node.js
