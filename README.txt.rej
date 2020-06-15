@@ -1,0 +1,10 @@
+diff a/README.txt b/README.txt	(rejected hunks)
+@@ -9,4 +9,5 @@
+ 7.asp.net
+ 8.Sql 
+ 9.ErWin
+-10.Cobol
+\ No newline at end of file
++10.Cobol
++11.���־�C++
+\ No newline at end of file
